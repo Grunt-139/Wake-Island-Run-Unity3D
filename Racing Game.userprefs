@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\RPG Game\Assets\Scripts\EnemyWanderScript.cs">
+    <Files>
+      <File FileName="..\RPG Game\Assets\Scripts\EnemyWanderScript.cs" Line="82" Column="71" />
+      <File FileName="..\RPG Game\Assets\Scripts\HackNSlashCharacterController.cs" Line="223" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

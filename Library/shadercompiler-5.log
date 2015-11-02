@@ -1,0 +1,13 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-5-44124
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=0 insize=3355 outsize=3072 kw=WATER_REFRACTIVE ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3355 outsize=756 kw=WATER_REFLECTIVE ok=1
+Cmd: compileSnippet
+  api=8 type=1 insize=3355 outsize=3323 kw=WATER_SIMPLE ok=1
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
